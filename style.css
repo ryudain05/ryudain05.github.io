@@ -10,8 +10,12 @@
 	height: 60px;
 	width: 100%;
 }*/
-section{
+#section{
 	height: 1040px;
+	width: 100%;
+}
+#section1{
+	height: 640px;
 	width: 100%;
 }
 #span{
