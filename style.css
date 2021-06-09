@@ -38,7 +38,7 @@
 	color: #F2CA52;
 }
 #span5{
-	color: #1E3269;
+	color: #96C7ED;
 }
 #span6{
 	color: #FF5675;
@@ -152,7 +152,7 @@ ul{
 	text-align: center;
 	font-weight: bold;
 	font-size: 30px;
-	color: #1E3269;
+	color: #96C7ED;
 }
 #h33{
 	text-align: center;
@@ -252,19 +252,19 @@ ul{
 	width: 1020px;
 	margin: auto;
 	border: solid 1px #ffffff;
-	background: linear-gradient( 5deg,  #1E3269 40% , #8C8C8C 60% );
+	background: linear-gradient( 5deg,  #96C7ED 40% , #1E3269 60% );
 }
 #page3{
 	width: 1020px;
 	margin: auto;
 	border: solid 1px #ffffff;
-	background: linear-gradient( 5deg,  #FF5675 40% , #8C8C8C 60% );
+	background: linear-gradient( 5deg,  #FF5675 40% , #FFCFDA 60% );
 }
 #page4{
 	width: 1020px;
 	margin: auto;
 	border: solid 1px #ffffff;
-	background: linear-gradient( 5deg,  #5F4B8B 40% , #8C8C8C 60% );
+	background: linear-gradient( 5deg,  #5F4B8B 40% , #F592BB 60% );
 }
 form {
 	color: #ffffff;
